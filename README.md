@@ -3,9 +3,9 @@
 
 - The goal of this project is to model the factors that predict how likely a student is to pass their High School final exam, by constructing an intervention system that leverages supervised learning techniques.
 
-- The purpose of this project is to get familiar with using ``` Supervised Machine Learning techinques``` 
+- The purpose of this project is to get familiar with using ` Supervised Machine Learning techinques`
 - I Analysed a dataset on students' performance and developed a cost effective model that will predict the likelihood that a given student will pass, quantifying whether an intervention is necessary.
-- After reading this project, you should know how to uncover 
+- After reading this project, you should know how to uncover patterns from data to group them into categories 
 
 ### Install
 
@@ -25,8 +25,8 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 
 In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
 
-```ipython notebook student_intervention.ipynb```  
-```jupyter notebook student_intervention.ipynb```
+`ipython notebook student_intervention.ipynb`  
+`jupyter notebook student_intervention.ipynb`
 
 This will open the iPython Notebook software and project file in your browser.
 
